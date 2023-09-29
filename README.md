@@ -22,7 +22,7 @@ GuardianShield is an open-source antivirus project designed to provide robust pr
 
 1. **Clone the Repository:**
    ```bash
-   git clone [repository_link]
+   git clone https://github.com/NabilPevekar/Antivirus_Scanner
    ```
 
 2. **Navigate to the Project Directory:**
